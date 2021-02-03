@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **LeticiaMilan/LeticiaMilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey 👋
+
+Meu nome é Letícia Milan 👩🏻‍💻‍🇧🇷
+
+Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desenvolvimento Web e apaixonada por diversas áreas da tecnologia.  💻💕
+
+- Me encontre aqui 👇🏼
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC63wAqMgPRS5SxeXmJ-NcgQ)](https://www.youtube.com/channel/UC63wAqMgPRS5SxeXmJ-NcgQ) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/let%C3%ADcia-milan-461653182/)](https://www.linkedin.com/in/let%C3%ADcia-milan-461653182/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/leth_milan/?hl=pt-br)](https://www.instagram.com/leth_milan/?hl=pt-br) 
+
