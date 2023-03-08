@@ -2,7 +2,7 @@
 
 Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desenvolvimento Web e apaixonada por diversas áreas da tecnologia.  💻💕
 
-##
+## [![statsGit](https://github-readme-stats.vercel.app/api?username=LeticiaMilan&show_icons=true&theme=dracula)](https://github.com/LeticiaMilan)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
