@@ -3,6 +3,10 @@
 Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desenvolvimento Web e apaixonada por diversas áreas da tecnologia.  💻💕
 
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=196209&width=435&lines=%3C %3EHello,+world!%3C%2F%3E" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
   <br>
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeticiaMilan&show_icons=true&theme=dracula&count_private=true&bg_color=0d1117&hide_border=true"/>
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMilan&langs_count=8&count_private=false&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true"/>
