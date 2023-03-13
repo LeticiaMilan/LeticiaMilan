@@ -4,6 +4,19 @@ Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desen
 
 ## [![statsGit](https://github-readme-stats.vercel.app/api?username=LeticiaMilan&show_icons=true&theme=dracula)](https://github.com/LeticiaMilan)
 
+<p align="center">
+  <a href="#">
+    <img
+      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LeticiaMilan&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/LeticiaMilan">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="NazmusSayad" />
+  </a>
+</p>
+
 <div style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Stack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Stack" width="40" height="40"/>
@@ -40,4 +53,10 @@ Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desen
   <a href = "mailto:leticiamilan.ds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/letícia-milan-461653182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+</div>
+
+<div>
+  <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
 </div>
