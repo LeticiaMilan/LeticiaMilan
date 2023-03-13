@@ -16,7 +16,7 @@ Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desen
 
 - 👩🏻‍💻 Todos os meus projetos estão disponíveis em [#](#) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/portfolio.gif" width="20px" alt="portfolio" />
 
-- 📄 Baixe meu currículo: [Ver CV](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resumee.gif" width="50px" height="20px" alt="resume">
+- 📄 Baixe meu currículo: [Ver CV](https://drive.google.com/file/#) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resumee.gif" width="50px" height="20px" alt="resume">
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
