@@ -1,10 +1,31 @@
-## Olá! Meu nome é Letícia Milan 👩🏻‍💻‍🇧🇷
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=435&lines=%3C %3EHello,+world!%3C%2F%3E" alt="Typing SVG" /></a>
+</div>
+
+## Olá! Meu nome é Letícia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desenvolvimento Web e apaixonada por diversas áreas da tecnologia.  💻💕
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=196209&width=435&lines=%3C %3EHello,+world!%3C%2F%3E" alt="Typing SVG" /></a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeticiaMilan&label=Profile%20views&color=0e75b6&style=flat" alt="LeticiaMilan" /> </p>
+
+- 🌱 Atualmente aprendendo mais sobre **React.js** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" width="20px" alt="react">
+
+- 🎓 Estudando **Ciência da Computação** na <a href="https://unip.br/">UNIP - Ribeirão Preto</a>.
+
+- 📫 Email: <a href = "mailto:leticiamilan.dev@gmail.com"><img src="https://raw.githubusercontent.com/LeticiaMilan/images/main/mail.gif" width="20px" alt="email" target="_blank">leticiamilan.dev@gmail.com</a>
+
+- 👩🏻‍💻 Todos os meus projetos estão disponíveis em [#](#) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/portfolio.gif" width="20px" alt="portfolio" />
+
+- 📄 Baixe meu currículo: [Ver CV](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resumee.gif" width="50px" height="20px" alt="resume">
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/leticia-milan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/leth_milan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/leth_milan" target="_blank"><img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC63wAqMgPRS5SxeXmJ-NcgQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/leth_milan" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</p>
 
 <div align="center">
   <br>
@@ -55,16 +76,6 @@ Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desen
 </div>
 
 ##
-
-<div> 
-  <a href="https://www.youtube.com/channel/UC63wAqMgPRS5SxeXmJ-NcgQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/leth_milan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/leth_milan" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leticiamilan.ds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/letícia-milan-461653182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-
 <div>
   <a href="#">
     <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
