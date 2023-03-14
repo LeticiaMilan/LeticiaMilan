@@ -44,7 +44,7 @@ Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Stack" width="40" height="40"/>
 </div>
 
-<h3 align="left">Design:</h3>
+<h3 align="left">UI/UX Design:</h3>
 <div style="display: inline_block">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Stack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Stack" width="40" height="40"/>
