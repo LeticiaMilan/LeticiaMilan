@@ -41,8 +41,11 @@ Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Stack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Stack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="Stack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Stack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Stack" width="40" height="40"/>
 </div>
+
+
 
 <h3 align="left">UI/UX Design:</h3>
 <div style="display: inline_block">
@@ -59,7 +62,10 @@ Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desen
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="Stack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="Stack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Stack" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Stack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Stack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Stack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" alt="Stack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Stack" width="40" height="40"/>
 </div>
 
@@ -72,6 +78,7 @@ Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desen
 <h3 align="left">IDEs:</h3>
 <div style="display: inline_block">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Stack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Stack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" alt="Stack" width="40" height="40"/>
 </div>
 
