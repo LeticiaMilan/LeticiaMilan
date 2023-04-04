@@ -10,11 +10,11 @@ Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desen
 
 - 🌱 Atualmente aprendendo mais sobre **React.js** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" width="20px" alt="react">
 
-- 🎓 Estudando **Ciência da Computação** na <a href="https://unip.br/">UNIP - Ribeirão Preto</a>.
+- 🎓 Estudando **Ciência da Computação** na <a href="https://unip.br/" target="_blank">UNIP - Ribeirão Preto</a>.
 
 - 📫 Email: <a href = "mailto:leticiamilan.dev@gmail.com"><img src="https://raw.githubusercontent.com/LeticiaMilan/images/main/mail.gif" width="20px" alt="email" target="_blank">leticiamilan.dev@gmail.com</a>
 
-- 👩🏻‍💻 Todos os meus projetos estão disponíveis em [#](#) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/portfolio.gif" width="20px" alt="portfolio" />
+- 👩🏻‍💻 Todos os meus projetos estão disponíveis em [meu Portfolio](https://dev-folio-v.vercel.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/portfolio.gif" width="20px" alt="portfolio" />
 
 - 📄 Baixe meu currículo: [Ver CV](https://drive.google.com/file/d/1Kg8cTS7thb213U_kCOzkeYBnz3zdKvpM/view?usp=sharing) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resumee.gif" width="50px" height="20px" alt="resume">
 
