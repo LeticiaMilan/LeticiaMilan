@@ -82,11 +82,11 @@ Sou Técnica em Desenvolvimento de Sistemas, familiarizada com projetos de Desen
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" alt="Stack" width="40" height="40"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <br>
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeticiaMilan&show_icons=true&theme=dracula&count_private=true&bg_color=0d1117&hide_border=true"/>
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMilan&langs_count=8&count_private=false&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true"/>
-</div> 
+</div>  -->
 
 <br>
 
