@@ -2,7 +2,6 @@
 
 <img align="right" src="assets/cat_typing_on_a_computer.gif" alt="cat typing on a computer" width="320" /> 
 
-<<<<<<< HEAD
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
