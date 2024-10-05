@@ -17,12 +17,12 @@ class Student:
         self.website = "https://dev-folio-v.vercel.app"
 
     def skills(self):
-        self.languages = ["Python", "Java", "JavaScript", "TypeScript"]
+        self.languages = ["Python", "R", "Java", "JavaScript", "TypeScript"]
         self.databases  = ["PostgreSQL", "MongoDB", "MySQL", "SQL Server"]
         self.frameworks = ["Pandas","Numpy", "Plotly", "Matplotlib", "Flask",  
                           "Django", "TensorFlow", "scikit-learn", "React.js", 
                           "Chart.js", "Next.js", "GraphQL", "Spring boot"]
-        self.learning = [ "Data Science with Python and SQL",
+        self.learning = [ "Data Science with Python, R and SQL",
                           "Machine Learning algorithms"]
 
     def say_hi(self):
