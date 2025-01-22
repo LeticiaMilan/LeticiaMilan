@@ -23,7 +23,7 @@ class Student:
                           "Django", "TensorFlow", "scikit-learn", "React.js", 
                           "Chart.js", "Next.js", "GraphQL", "Spring boot"]
         self.learning = [ "Data Science with Python, R and SQL",
-                          "Machine Learning algorithms"]
+                          "Machine Learning algorithms", "Artificial Intelligence"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find interesting my profile :)")
