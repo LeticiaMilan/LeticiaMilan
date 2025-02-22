@@ -30,6 +30,7 @@ class Student:
                           "Deep Learning",
                           "Artificial Intelligence",
                           "Medical Image Processing",
+                          "Bioinformatics",
                           "Green Software Development 🌱💚"
                         ]
 
