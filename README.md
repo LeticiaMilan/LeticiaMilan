@@ -20,7 +20,7 @@ class Student:
         self.languages = ["Python", "R", "Java", "JavaScript", "TypeScript"]
         self.databases  = ["PostgreSQL", "MongoDB", "MySQL", "SQL Server"]
         self.frameworks = ["Pandas", "NumPy", "Plotly", "Matplotlib", "Flask",  
-                           "Django", "TensorFlow", "Keras", "scikit-learn",
+                           "Django", "TensorFlow", "Keras", "PyTorch", "scikit-learn",
                            "LangChain", "Hugging Face Transformers", "NLTK",
                            "React.js", "Chart.js", "Next.js", "GraphQL",
                            "Spring boot"
